@@ -8,6 +8,7 @@
 ## File cần nộp
 
 - **Tên file:** `NhomSSS_CS12.xlsx`
+- **Thành viên:** Lê Thị Hoài Thương — MSSV `2A202602898`
 - **Nơi nộp:** VLearn
 - **Hạn nộp:** trước **13:00, ngày 16/10/2026**
 - **Mỗi nhóm chỉ nộp 01 file.**
